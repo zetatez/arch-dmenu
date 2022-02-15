@@ -2,6 +2,7 @@
 
 - [Patches](https://tools.suckless.org/dmenu/patches/)
     - dmenu-center-20200111-8cd37e1.diff
+    - dmenu-fuzzyhighlight-4.9.diff
 
 # dmenu - dynamic menu
 
