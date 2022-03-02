@@ -1,4 +1,4 @@
-![dwm](https://raw.githubusercontent.com/zetatez/arch-dmenu/dev/dmenu.jpg)
+dmenu
 
 - [Patches](https://tools.suckless.org/dmenu/patches/)
     - dmenu-center-20200111-8cd37e1.diff
